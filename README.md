@@ -3,6 +3,8 @@ code for AI training
 
 contain all file for AI training course
 
-Lesson1: Basic Helloworld
+Lesson 1: Basic Helloworld
 
-Lesson2: Input Output Operation
+Lesson 2: Input Output Operation
+
+Lesson 3: For, If, While
